@@ -16,11 +16,11 @@ On this particular website, the difficulty starts with kyu8 up to kyu1.
 Missed weeks: Week28
 
 ## Katas:
-* Kyu8 finished: 
-* Kyu7 finished: 
-* Kyu6 finished: 
-* Kyu5 finished: 
-* Kyu4 finished: 
-* Kyu3 finished: 
+* Kyu8 finished: https://www.codewars.com/kata/5b4e779c578c6a898e0005c5
+* Kyu7 finished: https://www.codewars.com/kata/601c18c1d92283000ec86f2b
+* Kyu6 finished: https://www.codewars.com/kata/5ce399e0047a45001c853c2b
+* Kyu5 finished: https://www.codewars.com/kata/52bc74d4ac05d0945d00054e
+* Kyu4 finished: https://www.codewars.com/kata/526d84b98f428f14a60008da
+* Kyu3 finished: https://www.codewars.com/kata/55dcdd2c5a73bdddcb000044
 * Kyu2 didn't try.
 * kyu1 didn't try.
